@@ -1,0 +1,13 @@
+.module{
+    margin-top: 50px;
+}
+.lobbychat{
+        position: relative;
+        float: left;   
+        margin-left: 100px;   
+    }
+.module #discord{
+        float: right;
+        margin-right: 200px;
+        margin-top: 10px;
+    }
