@@ -15,3 +15,4 @@ $(".server").forEach(el => {
         el.setAttribute("aria-selected", true);
     });
 });
+
